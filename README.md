@@ -14,7 +14,9 @@ Aplikasi musik mirip Spotify yang memungkinkan pengguna untuk mencari musik, men
 1. **Clone repository ini** ke komputer kamu:
    ```bash
    git clone https://github.com/johararifin2902/music-App-Flutter.git
-   cd repository-name
+   ```
+   ```bash
+   cd music-App-Flutter
    ```
 
 2. **Instalasi dependencies:**
